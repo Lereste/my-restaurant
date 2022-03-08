@@ -53,11 +53,11 @@
 
 @media screen and (max-width: 2000px) {
   .app__specialMenu-menu_img {
-    width: 650px;
+    width: 400px;
   }
 
   .app__specialMenu-menu_img img {
-    height: 920px;
+    height: 640px;
   }
 }
 
